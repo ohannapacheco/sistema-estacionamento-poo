@@ -106,8 +106,8 @@ estacionamento/
 Clone o repositório e acesse a pasta do projeto:
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/ohannapacheco/sistema-estacionamento-poo.git
+cd sistema-estacionamento-poo
 ```
 
 Instale as dependências:
