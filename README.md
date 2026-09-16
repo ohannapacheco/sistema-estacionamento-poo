@@ -1,6 +1,8 @@
 # Sistema de Controle de Estacionamento — EstACME
 
-Sistema de controle de estacionamento desenvolvido em JavaScript como projeto da disciplina de Programação Orientada a Objetos.
+Sistema de controle de estacionamento desenvolvido em JavaScript como projeto da disciplina de Programação Orientada a Objetos do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da PUCRS.
+
+**Principais conceitos:** POO, herança, encapsulamento, `Map`, `Set`, persistência CSV, tratamento de exceções e testes automatizados.
 
 O projeto implementa diferentes categorias de clientes, regras de cobrança, controle de entrada e saída de veículos, persistência de dados em arquivos CSV, relatórios gerenciais e interface de terminal.
 
@@ -163,6 +165,6 @@ O sistema possui relatórios para:
 
 ## Contexto acadêmico
 
-Projeto desenvolvido para a disciplina de **Programação Orientada a Objetos**, do curso de Análise e Desenvolvimento de Sistemas da PUCRS.
+Projeto desenvolvido na disciplina de **Programação Orientada a Objetos** do **Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da PUCRS**.
 
-O objetivo do projeto foi aplicar conceitos de orientação a objetos na implementação de um sistema completo, incluindo regras de negócio, estruturas de dados, persistência, interface com o usuário e relatórios.
+O objetivo foi aplicar conceitos de orientação a objetos no desenvolvimento de um sistema completo, incluindo regras de negócio, estruturas de dados, persistência em arquivos CSV, interface com o usuário, relatórios gerenciais e testes.
