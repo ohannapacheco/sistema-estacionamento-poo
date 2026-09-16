@@ -6,6 +6,12 @@ Sistema de controle de estacionamento desenvolvido em JavaScript como projeto da
 
 O projeto implementa diferentes categorias de clientes, regras de cobrança, controle de entrada e saída de veículos, persistência de dados em arquivos CSV, relatórios gerenciais e interface de terminal.
 
+## Demonstração
+
+Interface principal do sistema em execução no terminal:
+
+![Menu principal do EstACME](docs/menu-principal.png)
+
 ## Funcionalidades
 
 O sistema permite:
