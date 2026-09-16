@@ -1,0 +1,20 @@
+{
+  "name": "estacionamento",
+  "version": "1.0.0",
+  "description": "Sistema de Controle de Estacionamento EstACME",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node testeCobrancas.js && node testeBloqueios.js && node testeCadastros.js",
+    "test:cobrancas": "node testeCobrancas.js",
+    "test:bloqueios": "node testeBloqueios.js",
+    "test:cadastros": "node testeCadastros.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

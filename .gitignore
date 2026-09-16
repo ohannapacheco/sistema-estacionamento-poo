@@ -1,0 +1,15 @@
+# Dependências
+node_modules/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos compactados
+*.zip
+
+# Logs
+*.log
+npm-debug.log*
+
+# Arquivos temporários
+*.tmp
